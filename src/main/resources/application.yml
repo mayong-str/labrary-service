@@ -4,4 +4,6 @@ spring:
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
-
+server:
+  address: 127.0.0.1
+  port: 8080
